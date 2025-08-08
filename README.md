@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Uma aplicação simples e intuitiva feita com HTML, CSS e JavaScript que permite adicionar nomes de amigos, listar participantes e sortear aleatoriamente um deles. Ideal para festas, confraternizações e eventos de fim de ano!
+Uma aplicação simples e intuitiva feita com HTML, CSS e JavaScript que permite adicionar nomes de amigos, listar participantes e sortear aleatoriamente um deles. Ideal para festas, confraternizações e eventos de fim de ano! Este é um projeto de Formação Inicial em Lógica de Programação da ONE (Oracle Next Education) e Alura.
 
 ![Banner do Projeto](assets/amigo-secreto.png)
 
@@ -22,6 +22,12 @@ Veja o projeto funcionando:
 🔗 [https://neigit485.github.io/amigo-secreto](https://neigit485.github.io/amigo-secreto)
 
 ---
+✨ Como Usar
+1. Acesse a barra do navegador e digite:
+git clone https://github.com/neigit485/amigo-secreto.git
+3. Digite os nomes dos participantes um a um e pressione Enter ou clique em "Adicionar".
+4. Ao final, clique em "Sortear amigo" para revelar o sorteado!
+5. Para limpar lista no teclado de um "F5" ou clique em "Recarregar página"
 
 ## 🧪 Demonstração
 
@@ -50,14 +56,6 @@ Veja o projeto funcionando:
 
 
 
-✨ Como Usar
-1. Clone o repositório:
-git clone https://github.com/neigit485/amigo-secreto.git
-2. Abra o arquivo index.html no navegador.
-3. Digite os nomes dos participantes um a um e pressione Enter ou clique em "Adicionar".
-4. Ao final, clique em "Sortear amigo" para revelar o sorteado!
-5. Para limpar lista no teclado de um "F5" ou clique em "Recarregar página"
-
 ⚙️ Validações
 1. O campo de nome não pode estar vazio.
 2. A primeira letra de cada nome é automaticamente identificada como Maiúscula.
@@ -67,6 +65,4 @@ git clone https://github.com/neigit485/amigo-secreto.git
 🛠️ Autor
 Desenvolvido por Valdinei Costa 💻
 
-📝 Licença
-Este projeto está sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar! 🙌
