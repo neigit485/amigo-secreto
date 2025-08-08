@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Uma aplicação simples e intuitiva feita com HTML, CSS e JavaScript que permite adicionar nomes de amigos, listar participantes e sortear aleatoriamente um deles. Ideal para festas, confraternizações e eventos de fim de ano! Este é um projeto de Formação Inicial em Lógica de Programação da ONE (Oracle Next Education) e Alura.
+Uma aplicação simples e intuitiva feita com HTML, CSS e JavaScript que permite adicionar nomes de amigos, listar participantes e sortear aleatoriamente um deles. Ideal para festas, confraternizações e eventos de fim de ano! Este é um projeto de Formação Inicial em Lógica de Programação da ONE (Oracle Next Education) e Alura sendo este um requisito para o curso.
 
 ![Banner do Projeto](assets/amigo-secreto.png)
 
