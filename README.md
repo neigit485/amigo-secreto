@@ -25,7 +25,7 @@ Veja o projeto funcionando:
 
 ## 🧪 Demonstração
 
-![Demonstração do projeto](assets/demo.gif) <!-- Substitua ou remova se não tiver ainda -->
+![Demonstração do projeto](assets/demo.gif)
 
 ---
 
@@ -56,19 +56,16 @@ git clone https://github.com/neigit485/amigo-secreto.git
 2. Abra o arquivo index.html no navegador.
 3. Digite os nomes dos participantes um a um e pressione Enter ou clique em "Adicionar".
 4. Ao final, clique em "Sortear amigo" para revelar o sorteado!
+5. Para limpar lista no teclado de um "F5" ou clique em "Recarregar página"
 
 ⚙️ Validações
-O campo de nome não pode estar vazio.
-
-A primeira letra de cada nome é automaticamente capitalizada.
-
-A lista é atualizada em tempo real.
-
-O sorteio só ocorre se houver ao menos um nome adicionado.
+1. O campo de nome não pode estar vazio.
+2. A primeira letra de cada nome é automaticamente identificada como Maiúscula.
+3. A lista é atualizada em tempo real.
+4. O sorteio só ocorre se houver ao menos um nome adicionado.
 
 🛠️ Autor
 Desenvolvido por Valdinei Costa 💻
-Contato: LinkedIn | Portfólio
 
 📝 Licença
 Este projeto está sob a licença MIT.
